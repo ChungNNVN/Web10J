@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DatalList>
+  <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <xsd:element name="data">
+      <xsd:complexType>
+        <xsd:sequence>
+          <xsd:element name="氏名" type="xsd:string" nillable="true"/>
+          <xsd:element name="国語" type="xsd:int" nillable="true"/>
+          <xsd:element name="数学" type="xsd:int" nillable="true"/>
+          <xsd:element name="理科" type="xsd:int" nillable="true"/>
+          <xsd:element name="社会" type="xsd:int" nillable="true"/>
+          <xsd:element name="英語" type="xsd:int" nillable="true"/>
+        </xsd:sequence>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <data>
+    <氏名>亀甲　滋万</氏名>
+    <国語>84</国語>
+    <数学>100</数学>
+    <理科>95</理科>
+    <社会>53</社会>
+    <英語>46</英語>
+  </data>
+  <data>
+    <氏名>寒田　希世</氏名>
+    <国語>94</国語>
+    <数学>17</数学>
+    <理科>73</理科>
+    <社会>10</社会>
+    <英語>20</英語>
+  </data>
+  <data>
+    <氏名>小和瀬　澄</氏名>
+    <国語>53</国語>
+    <数学>79</数学>
+    <理科>75</理科>
+    <社会>42</社会>
+    <英語>91</英語>
+  </data>
+  <data>
+    <氏名>宇夫　早余子</氏名>
+    <国語>76</国語>
+    <数学>49</数学>
+    <理科>88</理科>
+    <社会>87</社会>
+    <英語>71</英語>
+  </data>
+  <data>
+    <氏名>宇田津　聖智</氏名>
+    <国語>39</国語>
+    <数学>32</数学>
+    <理科>51</理科>
+    <社会>39</社会>
+    <英語>72</英語>
+  </data>
+  <data>
+    <氏名>茨城　昭児</氏名>
+    <国語>70</国語>
+    <数学>86</数学>
+    <理科>81</理科>
+    <社会>91</社会>
+    <英語>94</英語>
+  </data>
+  <data>
+    <氏名>石ヶ休　椎茄</氏名>
+    <国語>49</国語>
+    <数学>24</数学>
+    <理科>11</理科>
+    <社会>98</社会>
+    <英語>19</英語>
+  </data>
+  <data>
+    <氏名>赤司　恵治郎</氏名>
+    <国語>14</国語>
+    <数学>85</数学>
+    <理科>27</理科>
+    <社会>92</社会>
+    <英語>20</英語>
+  </data>
+</DatalList>
