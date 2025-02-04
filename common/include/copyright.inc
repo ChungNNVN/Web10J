@@ -1,1 +1,0 @@
-&copy; MESCIUS inc. All rights reserved.
