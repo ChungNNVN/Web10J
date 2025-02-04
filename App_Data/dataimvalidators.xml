@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DatalList>
+  <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <xsd:element name="data">
+      <xsd:complexType>
+        <xsd:sequence>
+          <xsd:element name="ID" type="xsd:string" nillable="true"/>
+          <xsd:element name="氏名" type="xsd:string" nillable="true"/>
+          <xsd:element name="カタカナ" type="xsd:string" nillable="true"/>
+          <xsd:element name="入社日" type="xsd:date" nillable="true"/>
+          <xsd:element name="メールアドレス" type="xsd:string" nillable="true"/>
+          <xsd:element name="パスワード" type="xsd:string" nillable="true"/>
+        </xsd:sequence>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <data>
+    <ID>1001</ID>
+    <氏名>風間佳乃</氏名>
+    <カタカナ>カザマヨシノ</カタカナ>    
+    <入社日>2001-08-19</入社日>
+    <メールアドレス>yoshino_kazama@dvrvqkdgjh.ih</メールアドレス>
+    <パスワード>kaz79313</パスワード>
+  </data>
+  <data>
+    <ID>1002</ID>
+    <氏名>中川雪子</氏名>
+    <カタカナ>ナカガワユキコ</カタカナ>    
+    <入社日>2006-11-17</入社日>
+    <メールアドレス>onakagawa@zfjtagjj.ufg</メールアドレス>
+    <パスワード>nak22276</パスワード>
+  </data>
+  <data>
+    <ID>1003</ID>
+    <氏名>重田栄治</氏名>
+    <カタカナ>シゲタエイジ</カタカナ>
+    <入社日>2012-02-06</入社日>
+    <メールアドレス>eijishigeta@drouk.mg</メールアドレス>
+    <パスワード>sige47855</パスワード>
+  </data>
+  <data>
+    <ID>1004</ID>
+    <氏名>牧舞子</氏名>
+    <カタカナ>マキマイコ</カタカナ>
+    <入社日>2003-03-07</入社日>
+    <メールアドレス>Maiko_Maki@piaq.co</メールアドレス>
+    <パスワード>mak24396</パスワード>
+  </data>
+  <data>
+    <ID>1005</ID>
+    <氏名>森田理緒</氏名>
+    <カタカナ>モリタリオ</カタカナ>
+    <入社日>2007-11-08</入社日>
+    <メールアドレス>rio07101@yjixuhlkxe.ck</メールアドレス>
+    <パスワード>mori35724</パスワード>
+  </data>
+  <data>
+    <ID>1006</ID>
+    <氏名>毛利音羽</氏名>
+    <カタカナ>モウリオトハ</カタカナ>
+    <入社日>2001-03-18</入社日>
+    <メールアドレス>amouri@npgcw.tbz</メールアドレス>
+    <パスワード>mouri79794</パスワード>
+  </data>
+  <data>
+    <ID>1007</ID>
+    <氏名>平尾達行</氏名>
+    <カタカナ>ヒラオタツユキ</カタカナ>
+    <入社日>2008-09-11</入社日>
+    <メールアドレス>Tatsuyuki_Hirao@vtzezb.sfriz.cyd</メールアドレス>
+    <パスワード>hirao56429</パスワード>
+  </data>
+  <data>
+    <ID>1008</ID>
+    <氏名>藤島百合子</氏名>
+    <カタカナ>フジシマユリコ</カタカナ>
+    <入社日>2001-02-23</入社日>
+    <メールアドレス>yurikofujishima@vvngva.rgh</メールアドレス>
+    <パスワード>hiji5215</パスワード>
+  </data>
+  <data>
+    <ID>1009</ID>
+    <氏名>福永晴奈</氏名>
+    <カタカナ>フクナガハルナ</カタカナ>
+    <入社日>2004-04-28</入社日>
+    <メールアドレス>Haruna_Fukunaga@cajoi.hc</メールアドレス>
+    <パスワード>tomi83136</パスワード>
+  </data>
+  <data>
+    <ID>1010</ID>
+    <氏名>相馬智子</氏名>
+    <カタカナ>ソウマトモコ</カタカナ>
+    <入社日>2006-04-20</入社日>
+    <メールアドレス>osouma@cdlhqz.rhy.vb</メールアドレス>
+    <パスワード>sou66502</パスワード>
+  </data>
+</DatalList>

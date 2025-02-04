@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+★注意事項★
+idはdemomenu.xmlのdirIDと一致
+
+エスケープ文字
+「<」&lt;
+「>」&gt;
+「&」&amp;
+「'」&apos;
+「"」&quot;
+&lt;&gt;
+-->
+<Accordion>
+  <AccordionMember>
+    <id>0</id>
+    <menunm>新機能</menunm>
+  </AccordionMember>
+  <AccordionMember>
+    <id>18</id>
+    <menunm>マルチタッチ機能</menunm>
+  </AccordionMember>
+  <AccordionMember>
+    <id>1</id>
+    <menunm>セル、行、列、ヘッダ</menunm>
+  </AccordionMember>
+  <AccordionMember>
+    <id>2</id>
+    <menunm>シート</menunm>
+  </AccordionMember>
+  <AccordionMember>
+    <id>3</id>
+    <menunm>スタイル</menunm>
+  </AccordionMember>
+  <AccordionMember>
+    <id>4</id>
+    <menunm>選択</menunm>
+  </AccordionMember>
+  <AccordionMember>
+    <id>5</id>
+    <menunm>セル型</menunm>
+  </AccordionMember>
+  <AccordionMember>
+    <id>6</id>
+    <menunm>編集</menunm>
+  </AccordionMember>
+  <AccordionMember>
+    <id>7</id>
+    <menunm>ソート</menunm>
+  </AccordionMember>
+  <AccordionMember>
+    <id>8</id>
+    <menunm>フィルタリング</menunm>
+  </AccordionMember>
+  <AccordionMember>
+    <id>9</id>
+    <menunm>グループ化</menunm>
+  </AccordionMember>
+  <AccordionMember>
+    <id>10</id>
+    <menunm>ページング</menunm>
+  </AccordionMember>
+  <AccordionMember>
+    <id>11</id>
+    <menunm>スクロール</menunm>
+  </AccordionMember>
+  <AccordionMember>
+    <id>12</id>
+    <menunm>データ連結</menunm>
+  </AccordionMember>
+  <AccordionMember>
+    <id>13</id>
+    <menunm>階層表示</menunm>
+  </AccordionMember>
+  <AccordionMember>
+    <id>14</id>
+    <menunm>コマンドバー</menunm>
+  </AccordionMember>
+  <AccordionMember>
+    <id>17</id>
+    <menunm>チャート</menunm>
+  </AccordionMember>
+  <AccordionMember>
+    <id>20</id>
+    <menunm>数式</menunm>
+  </AccordionMember>
+  <AccordionMember>
+    <id>15</id>
+    <menunm>インポート／エクスポート</menunm>
+  </AccordionMember>
+  <AccordionMember>
+    <id>16</id>
+    <menunm>クライアント側スクリプト</menunm>
+  </AccordionMember>
+</Accordion>
